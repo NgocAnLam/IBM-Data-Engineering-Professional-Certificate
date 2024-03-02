@@ -1,0 +1,6 @@
+{
+    "url": "https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films",
+    "db_name": "./result/Movies.db",
+    "table_name": "Top_50",
+    "csv_path": "./result/films_after_1999.csv"
+}
