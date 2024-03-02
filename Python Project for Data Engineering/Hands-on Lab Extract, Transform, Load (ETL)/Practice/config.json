@@ -1,0 +1,4 @@
+{
+    "log_file": "./result/log_file.txt",
+    "target_file": "./result/transformed_data.csv" 
+}
