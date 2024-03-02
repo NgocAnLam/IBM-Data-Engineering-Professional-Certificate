@@ -1,0 +1,22 @@
+- In the same database STAFF, create another table called Departments. The attributes of the table are as shown below.
+Header	        Description
+DEPT_ID	        Department ID
+DEP_NAME	    Department Name
+MANAGER_ID	    Manager ID
+LOC_ID	        Location ID
+
+- Populate the Departments table with the data available in the CSV file which can be downloaded from the link below using wget.
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/Departments.csv
+
+- Append the Departments table with the following information.
+
+Attribute	    Value
+DEPT_ID	        9
+DEP_NAME	    Quality Assurance
+MANAGER_ID	    30010
+LOC_ID	        L0010
+
+- Run the following queries on the Departments Table:
+a. View all entries
+b. View only the department names
+c. Count the total entries
