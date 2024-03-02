@@ -1,0 +1,8 @@
+{
+    "log_file": "./result/log_file.txt",
+    "url": "https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29",
+    "table_attribs": ["Country", "GDP_USD_millions"],
+    "db_name": "./result/World_Economies.db",
+    "table_name": "Countries_by_GDP",
+    "csv_path": "./result/Countries_by_GDP.csv"
+}
