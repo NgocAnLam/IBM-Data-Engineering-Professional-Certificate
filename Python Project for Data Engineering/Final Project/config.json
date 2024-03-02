@@ -1,0 +1,10 @@
+{
+    "url": "https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks",
+    "table_attribs_extraction": ["Name", "MC_USD_Billion"],
+    "table_attribs_final": ["Name", "MC_USD_Billion", "MC_GBP_Billion", "MC_EUR_Billion", "MC_INR_Billion"],
+    "csv_path": "./exchange_rate.csv",
+    "db_name": "./result/Banks.db",
+    "table_name": "Largest_banks",
+    "log_file": "./result/code_log.txt",
+    "output_path": "./result/output_file.csv"
+}
